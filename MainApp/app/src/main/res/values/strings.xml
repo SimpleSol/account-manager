@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Main App</string>
+    <string name="label">GrowApp</string>
+    <string name="account_type">biz.growapp.account</string>
+</resources>
